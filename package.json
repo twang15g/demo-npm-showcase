@@ -1,0 +1,19 @@
+{
+  "name": "twang15g1",
+  "version": "0.0.1",
+  "description": "12345",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twang15g/demo-npm-showcase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twang15g/demo-npm-showcase/issues"
+  },
+  "homepage": "https://github.com/twang15g/demo-npm-showcase#readme"
+}
